@@ -12,10 +12,15 @@ Following is the key clues on how to penetrate the essence of political economy.
 
 1. Economic Machine works with Credit. People borrow and lend the residual money to others and those money flow generates productivity.  
 
-2. When Economic Growth - measured by GDP usually - does not look well working, Central Bank/ Policy Makers prints the money and those are injected into society with low interest rate. We call this `Monetary Policy`. Then money goes to the people who can generate productivity and economic machine starts to work again.
+2. When Economic Growth - measured by GDP usually - does not look well working, Central Bank/ Policy Makers prints the money and those are injected into society with low interest rate. Then money goes to the people who can generate productivity and economic machine starts to work again.
 
 3. If interest rate hit 0%, however, printing money does not lower the interest rate anymore, and not working. This has happened at `Great Depression(1929-1939)` and `Sub Prime Mortgage(2008-2015)`
+
 ![png](assets/zero_Ir.png)
+
+
+![png](assets/monetary_policy_instruments.png)
+
 
 4. Then Central Bank performs `Quantitative Easing`, which is to buy financial asset directly and makes the people get richer who has already held a financial assets. This widens the `wealth gap`. 
 
