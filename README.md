@@ -28,6 +28,12 @@ Following is the key clues on how to penetrate the essence of political economy.
 This score is used to predict the demand for USD. If US maintains the intervention stance, this will lead to the US hegemony getting supported and people recognize and wants to buy USD more and more.
 
 - Or, Since the logic between the intervention always leads to the US hegemony strengthened, we might can consider the `hegemony score` instead.
+
+##### us troops overseas by year
+![png](assets/us_military_overseas.png)
+
+
+
   
 ### Institutions 
 
