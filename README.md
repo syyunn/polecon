@@ -28,6 +28,8 @@ Following is the key clues on how to penetrate the essence of political economy.
 
 
 5. Usually, if the `wealth gap` widened, people get lost of his `opportunity` to get a fine job which enables them to show his potential to the society, thus the people get interested in the political parties which supports `populism`. Thus some people call this `wealth gap` as a `opportunity gap`.
+
+6. Now, after `Quantitative Easing`, since it keep maintaining the interest rate near 0% (because of the overprint/flow of cash by central bank/government), now the monetary policy become to get tightened to rise the interest rate
  
 ### Technical Modelling 
 
@@ -41,6 +43,9 @@ This score is used to predict the demand for `USD`. If U.S. maintains the `inter
 ![png](assets/us_military_overseas.png)
 
 
+### Insight from Bridgewater, Ray Dalio
+
+https://www.youtube.com/watch?v=4X-mUL-GInw&feature=youtu.be
 
   
 ### Institutions 
