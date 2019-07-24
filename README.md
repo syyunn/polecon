@@ -22,7 +22,10 @@ Following is the key clues on how to penetrate the essence of political economy.
 ![png](assets/monetary_policy_instruments.png)
 
 
-4. Then Central Bank performs `Quantitative Easing`, which is to buy financial asset directly and makes the people get richer who has already held a financial assets. This widens the `wealth gap`. 
+4. Then Central Bank performs `Quantitative Easing`, which is to buy financial asset directly and makes the rich people become more richer since they had already held a financial assets. This widens the `wealth gap`. 
+
+![png](assets/wealth_gap.png)
+
 
 5. Usually, if the `wealth gap` widened, people get lost of his `opportunity` to get a fine job which enables them to show his potential to the society, thus the people get interested in the political parties which supports `populism`. Thus some people call this `wealth gap` as a `opportunity gap`.
  
@@ -30,7 +33,7 @@ Following is the key clues on how to penetrate the essence of political economy.
 
 #### Intervention Score
 
-This score is used to predict the demand for USD. If US maintains the intervention stance, this will lead to the US hegemony getting supported and people recognize and wants to buy USD more and more.
+This score is used to predict the demand for `USD`. If U.S. maintains the `intervention` stance, this will lead to the `U.S. hegemony` being sustained and people recognize and wants to buy `USD` more and more.
 
 - Or, Since the logic between the intervention always leads to the US hegemony strengthened, we might can consider the `hegemony score` instead.
 
